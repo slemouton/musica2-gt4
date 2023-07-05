@@ -19,7 +19,7 @@ cf : [http://ears.huma-num.fr](http://ears.huma-num.fr/7310a277-f904-431e-a9cb-5
 
 à croiser/completer avec la taxonomie des "equipments" de brahms.ircam.fr/sidney ![](./AntonyEquipmentTaxonomy.png)
 
-[tree](sidney-equipment-references-tree.html)
+[](sidney-equipment-references-tree.html)
 
 ## Ontologie
 repartir de [Doremus](https://github.com/DOREMUS-ANR/doremus-ontology) ?
@@ -65,3 +65,4 @@ This is certainly a long way, and we will probably not achieve it completely in 
 - Vine, B. (2010). Avoiding Extinction in the Instrument Zoo: A taxonomical and ontological approach to developing an understanding of the ecosystem of electroacoustic instruments. Organised Sound, 15(02), 167-177.
 - Vincent, A., Bachimont, B., & Bonardi, A. (2014). {L'intÃ©rÃªt des patrons dans la gestion des connaissances liÃ©es Ã  la crÃ©ation sonore}. In {IC - 25Ã¨mes JournÃ©es francophones d'IngÃ©nierie des Connaissances}, Clermont-Ferrand, France, 2014 (pp. 63-74). (https://hal.inria.fr/hal-01015188)
 - ï¿¼IFLA (). Definition of FRBROO Definition of FRBROO - A Conceptual Model for Bibliographic Information in Object-Oriented Formalism. Retrieved from https://www.ifla.org/files/assets/cataloguing/FRBRoo/frbroo_v_2.4.pdf.
+- ...
